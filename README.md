@@ -24,8 +24,3 @@
 - ML: Pandas, Scikit-learn, TensorFlow
 
 ---
-
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=casper0022&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=casper0022&show_icons=true)
