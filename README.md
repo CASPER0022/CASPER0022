@@ -6,7 +6,15 @@
 </p>
 
 ---
+# 💫 About Me
 
+- 🎓 Computer Science Student specializing in **AI & Data Science**
+- 💻 Passionate about **Full Stack Development & Machine Learning**
+- 🚀 Currently learning **MERN Stack & Deep Learning**
+- 📫 Reach me at: **albinjohn2427@gmail.com**
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1IyEdsRULjOI3cay6f1YNiN888e8KP-2_/view)
+
+---
 # 🌐 Socials
 
 <p align="left">
@@ -22,16 +30,6 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-
----
-
-# 💫 About Me
-
-- 🎓 Computer Science Student specializing in **AI & Data Science**
-- 💻 Passionate about **Full Stack Development & Machine Learning**
-- 🚀 Currently learning **MERN Stack & Deep Learning**
-- 📫 Reach me at: **albinjohn2427@gmail.com**
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1IyEdsRULjOI3cay6f1YNiN888e8KP-2_/view)
 
 ---
 
