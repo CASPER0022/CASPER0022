@@ -12,7 +12,7 @@
 - 💻 Passionate about **Full Stack Development & Machine Learning**
 - 🚀 Currently learning **MERN Stack & Deep Learning**
 - 📫 Reach me at: **albinjohn2427@gmail.com**
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1IyEdsRULjOI3cay6f1YNiN888e8KP-2_/view)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1bVi88YTCrbUz19gfOq1LNtAzTRQaCtpz/view?usp=sharing)
 
 ---
 # 🌐 Socials
