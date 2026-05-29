@@ -11,6 +11,7 @@
 - 🎓 Computer Science Student specializing in **AI & Data Science**
 - 💻 Passionate about **Full Stack Development & Machine Learning**
 - 🚀 Currently learning **MERN Stack & Deep Learning**
+- 🌐 Portfolio: **albinjohn.dev**
 - 📫 Reach me at: **albinjohn2427@gmail.com**
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1bVi88YTCrbUz19gfOq1LNtAzTRQaCtpz/view?usp=sharing)
 
