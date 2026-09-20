@@ -1,3 +1,7 @@
-### Vibe coding my way into AI Engineering.
+<p align="center">
+  <img src="./terminal-card.gif" alt="albinjohn@github neofetch card" width="850"/>
+</p>
 
-📍 Kerala, India · [albinjohn.dev](https://albinjohn.dev/) · [LinkedIn](https://www.linkedin.com/in/albin-john-581a73274/) · [albinjohn2427@gmail.com](mailto:albinjohn2427@gmail.com)
+<p align="center">
+  📍 Kerala, India · <a href="https://albinjohn.dev/">albinjohn.dev</a> · <a href="https://www.linkedin.com/in/albin-john-581a73274/">LinkedIn</a> · <a href="mailto:albinjohn2427@gmail.com">albinjohn2427@gmail.com</a>
+</p>
