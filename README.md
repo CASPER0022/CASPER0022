@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  📍 Kerala, India · <a href="https://albinjohn.dev/">albinjohn.dev</a> · <a href="https://www.linkedin.com/in/albin-john-581a73274/">LinkedIn</a> · <a href="mailto:albinjohn2427@gmail.com">albinjohn2427@gmail.com</a>
+  📍 Kerala, India · <a href="https://albinjohn.dev/">albinjohn.dev</a> · <a href="https://www.linkedin.com/in/albin-john-/">LinkedIn</a> · <a href="mailto:albinjohn2427@gmail.com">albinjohn2427@gmail.com</a>
 </p>
