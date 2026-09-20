@@ -8,7 +8,7 @@
 
 <br>
 
-<h3 align="center">💻 Tech Stack and Tools</h3>
+<!-- <h3 align="center">💻 Tech Stack and Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,c,cpp,java,mysql,postgres,git,github,docker,linux,vscode,react,nodejs,vite,tailwind,flask,django,fastapi,pytorch,tensorflow,sklearn,opencv,numpy,langchain&perline=9" />
-</p>
+</p> -->
