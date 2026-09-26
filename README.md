@@ -6,6 +6,10 @@
   📍 Kerala, India · <a href="https://albinjohn.dev/">albinjohn.dev</a> · <a href="https://www.linkedin.com/in/albin-john-/">LinkedIn</a> · <a href="mailto:albinjohn2427@gmail.com">albinjohn2427@gmail.com</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CASPER0022&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 <br>
 
 <!-- <h3 align="center">💻 Tech Stack and Tools</h3>
